@@ -6,10 +6,12 @@
 - [react-vue-koa]()
 - [lin-ui]()
 - [viui]()
+- [iview-weapp]() 一套高质量的微信小程序 UI 组件库
 - [vant-weapp](https://github.com/youzan/vant-weapp) 有赞微信小程序 UI 库
 - [Inkline](https://github.com/inkline/inkline) 
 
 #### 学习博客
+- [CS-Interview-Knowledge-Map]()
 - [30-seconds-for-everyday]() 聚焦前端 | 夯实基础 | 趣味教程 | 轻松进阶
 - [weekly](https://github.com/dt-fe/weekly) 周刊
 - [FEGuide]() 前端面试题+前端学习+面试指南
@@ -32,38 +34,63 @@
 - [awesome-coding-js](https://github.com/ConardLi/awesome-coding-js) 用JavaScript实现的算法和数据结构
 
 #### 开发star
-- [node-fetch]()
+- [vue-cli]()
+- [cheerio]()
 - [timeago.js]()
 - [dayjs]()
-- [is-online](https://github.com/sindresorhus/is-online) 判断是否可访问 【爬虫】
-- [vxe-table](https://github.com/xuliangzhan/vxe-table) vue 表格组件
-- [wechat-auth]()
 - [vConsole]()
+- [eruda]() 手机开发控制面板
+- [charts]() 图型报表
+- [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) 图片画廊 相册浏览器
 - [pace](https://github.com/HubSpot/pace) 页面顶部加载条 youtube 
+- [particles.js]()
+- [particleground]()
+- [zhihu-particle]() 仿知乎背景粒子背景
+- [better-scroll]() 
+- [waterfall]() vue 瀑布流
+- [vxe-table](https://github.com/xuliangzhan/vxe-table) vue 表格组件
+- [vue-lazyload]()
 - [vue-filepond](https://github.com/pqina/vue-filepond) 图片上传组件
 - [vue-treeselect](https://github.com/riophae/vue-treeselect)
 - [vue-carousel-3d](https://github.com/Wlada/vue-carousel-3d) 3D 轮播 for Vue.js
 - [vue-page-stack](https://github.com/hezhongfeng/vue-page-stack) Vue 路由模型
 - [vue-waterfall]()
 - [vue-waterfall2]()
-- [vue-mdEditor]()
 - [vue-pdf]() 
 - [vue-wxlogin]() 
-- [waterfall]() vue 瀑布流
-- [BachEditor](https://github.com/Integ/BachEditor) 一个有情怀的编辑器
-- [egg-captcha](https://github.com/Raoul1996/egg-captcha) 
+- [vue-touch-ripple](https://github.com/surmon-china/vue-touch-ripple) 点击水波纹
+##### 服务端
 - [co-wechat](https://github.com/node-webot/co-wechat) 微信公众平台消息接口服务中间件
 - [node-weixin-api]() 
+- [wechat-auth]()
 - [ali-ons](https://github.com/ali-sdk/ali-ons) 
 - [oss-cnpm]()
 - [httpbin](https://github.com/postmanlabs/httpbin) python 包
 - [jsbin]() 
 - [winston](https://github.com/winstonjs/winston) 比log4js 更火的日志管理模块
+- [promise-queue-plus]()
+- [egg-captcha](https://github.com/Raoul1996/egg-captcha) 
+- [ccap]()
+- [puppeteer]()
+- [is-online](https://github.com/sindresorhus/is-online) 判断是否可访问 【爬虫】
+- [nodemailer]()
+- [node-url](https://github.com/defunctzombie/node-url)
+- [node-fetch]()
 
-#### 视频播放器
+#### 开发star 编辑器
+- [vue-mdEditor]()
+- [vue-kindeditor](https://github.com/ff755/vue-kindeditor)
+- [tinymce-vue](https://github.com/tinymce/tinymce-vue) 
+- [BachEditor](https://github.com/Integ/BachEditor) 一个有情怀的编辑器
+
+#### 开发star 视频播放器
 - [xgplayer](https://github.com/bytedance/xgplayer) 
 - [xgplayer-vue](https://github.com/bytedance/xgplayer-vue) 
-
+- [flv.js]() bilibili
+- [DPlayer]() 
+- [vue-dplayer]()
+- [video.js]()
+- [accessible-html5-video-player]()
 
 #### 开源框架
 - [NodeWk]()
@@ -77,8 +104,8 @@
 - [eladmin-web]() eladmin前端源码
 
 #### 慕课网项目
-- []()
-- []()
+- [Play-with-Machine-Learning-Algorithms]() 慕课网上的课程《Python3 入门机器学习》示例代码
+- [Play-with-Algorithm-Interview]() 慕课网上的课程《玩儿转算法面试》示例代码
 - [vue-analysis](https://github.com/ustbhuangyi/vue-analysis) [黄轶] Vue.js 技术揭秘
 - [fullstack-data-engineer](https://github.com/Honlan/fullstack-data-engineer) 全栈数据工程师养成攻略
 - [vue-book](https://github.com/icarusion/vue-book) 《Vue.js实战》源码及答疑
@@ -91,21 +118,28 @@
 - [learnVue](https://github.com/answershuto/learnVue) Vue.js 源码解析
 - [react-native-video-project](https://github.com/ikimiler/react-native-video-project) 一个基于react-native的纯跨平台的影视项目
 - [node-in-debugging]() 《Node.js 调试指南》
+- [node-abc]() 《Node.js入门教程》By 流口水流
 
 #### 开源软件
 - [HandBrake]()
 - [vimplus]()
 - [ShadowsocksX-NG]()
+- [shadowsocks-windows]()
 - [iptv]()
 - [nvm-windows]() nodejs 多版本管理
 - [miwifi-ss]() 小米路由器 ss
 
+
 #### 开源解决方案
+
+- [thinkcmf]() CMS 让WEB开发更快
 - [walle-web]() 瓦力
 - [spug]() 开源运维平台：帮助中小型企业
 - [opendevops](https://github.com/opendevops-cn/opendevops) 一站式DevOps
 - [standard](https://github.com/standard/standard) Eslint 标准规范
 - [f2etest](https://github.com/alibaba/f2etest) 阿里巴巴
+- [beidou](https://github.com/alibaba/beidou) 阿里同构方案
+- [yapi]() 
 - [free-api](https://github.com/fangzesheng/free-api)
 - [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) python模拟登陆一些大型网站
 - [gods-pen](https://github.com/ymm-tech/gods-pen) 在线落地页制作
@@ -123,7 +157,13 @@
 
 #### 小游戏
 - [Awesome-Game](https://github.com/ordinaryA/Awesome-Game) 扫雷，管道小鸟，贪吃蛇
+- [games]() 一个基于Phaser的小游戏集合
+- [canvas_game]()
+- [tinyHeart]() 使用h5的API和canvas开发的一个小游戏
+- []()
+- []()
+- []()
 
-
-
-
+#### WiKi
+- [go-ethereum]() 以太坊
+- [ethereum / wiki]() 以太坊wiki
