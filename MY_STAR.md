@@ -148,7 +148,7 @@
 - [h2m](https://github.com/island205/h2m) Html 转换 Markdown
 - [node-weixin-api](https://github.com/node-weixin/node-weixin-api) 基于nodejs的微信公共平台API的SDK
 - [yivue]() 不编译使用vue开发项目 陈随意
-~- [google-access-helper](https://github.com/haotian-wang/google-access-helper) 谷歌访问助手破解版~ 已经免费使用
+- [google-access-helper](https://github.com/haotian-wang/google-access-helper) ~~谷歌访问助手破解版~~ 已经免费使用
 
 #### Python 应用
 - [wechat_avatar_python](https://github.com/puke3615/wechat_avatar_python) python拼接微信好友头像
@@ -160,9 +160,6 @@
 - [games]() 一个基于Phaser的小游戏集合
 - [canvas_game]()
 - [tinyHeart]() 使用h5的API和canvas开发的一个小游戏
-- []()
-- []()
-- []()
 
 #### WiKi
 - [go-ethereum]() 以太坊
