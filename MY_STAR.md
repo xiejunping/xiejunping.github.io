@@ -5,10 +5,16 @@
 #### UI库
 - [react-vue-koa]()
 - [lin-ui]()
+- [viui]()
 - [vant-weapp](https://github.com/youzan/vant-weapp) 有赞微信小程序 UI 库
 - [Inkline](https://github.com/inkline/inkline) 
 
 #### 学习博客
+- [30-seconds-for-everyday]() 聚焦前端 | 夯实基础 | 趣味教程 | 轻松进阶
+- [weekly](https://github.com/dt-fe/weekly) 周刊
+- [FEGuide]() 前端面试题+前端学习+面试指南
+- [IT-Technology-weekly](https://github.com/FreeCodeCamp-Chengdu/IT-Technology-weekly) FCC 成都社区 - 技术周刊
+- [fe-material](https://github.com/cucygh/fe-material) 整理收集最有趣的前端技术教程及文档
 - [fe-interview](https://github.com/haizlin/fe-interview) 前端面试每日 3+1
 - [front-end-interview](https://github.com/Advanced-Interview-Question/front-end-interview) 前端开发者面试清单
 - [iCSS]()
@@ -17,11 +23,18 @@
 - [Python-100-Days]()
 - [ppts](https://github.com/iv-web/ppts) 团队分享ppt
 - [blog](https://github.com/hoc2019/blog) 分享文章
+- [blog](https://github.com/xiaotianxia/blog) blog built with vuepress
+- [blog](https://github.com/yygmind/blog) 我是木易杨，公众号「高级前端进阶」作者
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题
+- [Nodejs-Roadmap](https://github.com/Q-Angelo/Nodejs-Roadmap) 侧重于 Node.js 服务端的开发指南，公众号 “Nodejs技术栈”
+- [nodejs-learning-guide]() Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
 - [leetcode](https://github.com/azl397985856/leetcode) 刷题
 - [awesome-coding-js](https://github.com/ConardLi/awesome-coding-js) 用JavaScript实现的算法和数据结构
 
 #### 开发star
+- [node-fetch]()
 - [timeago.js]()
+- [dayjs]()
 - [is-online](https://github.com/sindresorhus/is-online) 判断是否可访问 【爬虫】
 - [vxe-table](https://github.com/xuliangzhan/vxe-table) vue 表格组件
 - [wechat-auth]()
@@ -34,6 +47,9 @@
 - [vue-waterfall]()
 - [vue-waterfall2]()
 - [vue-mdEditor]()
+- [vue-pdf]() 
+- [vue-wxlogin]() 
+- [waterfall]() vue 瀑布流
 - [BachEditor](https://github.com/Integ/BachEditor) 一个有情怀的编辑器
 - [egg-captcha](https://github.com/Raoul1996/egg-captcha) 
 - [co-wechat](https://github.com/node-webot/co-wechat) 微信公众平台消息接口服务中间件
@@ -44,6 +60,11 @@
 - [jsbin]() 
 - [winston](https://github.com/winstonjs/winston) 比log4js 更火的日志管理模块
 
+#### 视频播放器
+- [xgplayer](https://github.com/bytedance/xgplayer) 
+- [xgplayer-vue](https://github.com/bytedance/xgplayer-vue) 
+
+
 #### 开源框架
 - [NodeWk]()
 - [nodeclub](https://github.com/cnodejs/nodeclub) Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
@@ -53,10 +74,12 @@
 - [nodejs_wx_aipay_api](https://github.com/yioMe/nodejs_wx_aipay_api) 微信支付宝个人免签收款Api系统
 - [mobxSpa](https://github.com/Tianlikai/mobxSpa) 企业级SPA项目，完整开发脚手架
 - [koa-use](https://github.com/wukuy/koa-use) koa框架
+- [eladmin-web]() eladmin前端源码
 
 #### 慕课网项目
 - []()
 - []()
+- [vue-analysis](https://github.com/ustbhuangyi/vue-analysis) [黄轶] Vue.js 技术揭秘
 - [fullstack-data-engineer](https://github.com/Honlan/fullstack-data-engineer) 全栈数据工程师养成攻略
 - [vue-book](https://github.com/icarusion/vue-book) 《Vue.js实战》源码及答疑
 - [koa2-note]()
@@ -66,6 +89,8 @@
 - [how-dose-egg-work]() egg源码解析
 - [flutter-in-action](https://github.com/flutterchina/flutter-in-action) 《Flutter实战》电子书
 - [learnVue](https://github.com/answershuto/learnVue) Vue.js 源码解析
+- [react-native-video-project](https://github.com/ikimiler/react-native-video-project) 一个基于react-native的纯跨平台的影视项目
+- [node-in-debugging]() 《Node.js 调试指南》
 
 #### 开源软件
 - [HandBrake]()
@@ -73,8 +98,12 @@
 - [ShadowsocksX-NG]()
 - [iptv]()
 - [nvm-windows]() nodejs 多版本管理
+- [miwifi-ss]() 小米路由器 ss
 
 #### 开源解决方案
+- [walle-web]() 瓦力
+- [spug]() 开源运维平台：帮助中小型企业
+- [opendevops](https://github.com/opendevops-cn/opendevops) 一站式DevOps
 - [standard](https://github.com/standard/standard) Eslint 标准规范
 - [f2etest](https://github.com/alibaba/f2etest) 阿里巴巴
 - [free-api](https://github.com/fangzesheng/free-api)
